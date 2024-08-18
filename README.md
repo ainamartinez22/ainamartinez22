@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ainamartinez22
-- 👀 I’m interested in Data Science and Mathematics
-- 🌱 I’m currently learning Machine Learning and Web Development
-- 💞️ I’m looking to collaborate on Deep Learning repositories
+- 👀 I’m interested in Software Development and Mathematics
+- 🌱 I’m currently working on Software Development and learning new web development frameworks
 - 📫 ainamartinez22@gmail.com
 - https://www.linkedin.com/in/aina-mart%C3%ADnez-tejero-3105251a1/
 
